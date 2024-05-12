@@ -1,0 +1,14 @@
+{
+  "build_id": "1621b1ce9ba5928fcc7e027df5c87546c601550e",
+  "files": {
+    "main.js": [
+      "chunk-XHQLO243.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-XHQLO243.js"
+    ],
+    "chunk-XHQLO243.js": [],
+    "metafile.json": []
+  }
+}

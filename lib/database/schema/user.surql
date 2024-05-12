@@ -1,0 +1,4 @@
+DEFINE TABLE IF NOT EXISTS user SCHEMAFULL
+	PERMISSIONS 
+	FOR
+		select WHERE id = $auth.id;
